@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=clebson90&show_icons=true&theme=tokyonight&count_private=true" />
