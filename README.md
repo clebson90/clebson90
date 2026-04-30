@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá 👋, meu nome é Clebson Filho
 
-<!--
-**clebson90/clebson90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando Análise e Desenvolvimento de Sistemas (1º Semestre) no Unipê.
+🐍 Aprendendo lógica de programação com Python e modelagem de sistemas.
+📍 João Pessoa, Paraíba.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/clebson90">
+    <img src="https://img.shields.io/badge/GitHub-clebson90-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/clebson_filho7">
+    <img src="https://img.shields.io/badge/Instagram-@clebson_filho7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=clebson90&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebson90&layout=compact&theme=tokyonight" />
+</p>
