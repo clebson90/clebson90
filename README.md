@@ -1,7 +1,9 @@
 # Olá 👋, meu nome é Clebson Filho
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas (1º Semestre) no Unipê.
+
 🐍 Aprendendo lógica de programação com Python e modelagem de sistemas.
+
 📍 João Pessoa, Paraíba.
 
 ---
